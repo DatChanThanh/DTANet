@@ -21,10 +21,10 @@ highlight DTANet’s superiority in terms of accuracy, speed, and
 compactness, thus recommending it as a robust and efficient
 solution for real-time deployment on resource-limited platforms.
 
-![Architecture](https://github.com/DatChanThanh/DTANet/blob/b1c367e07993df97ecf034f6740b63e7ad31460d/architecture.png)
+![Architecture](https://github.com/DatChanThanh/DTANet/raw/b1c367e07993df97ecf034f6740b63e7ad31460d/architecture.png)
 
 
-![Position Embedding](https://github.com/DatChanThanh/DTANet/blob/b1c367e07993df97ecf034f6740b63e7ad31460d/position_embedding.png)
+![Position Embedding](https://github.com/DatChanThanh/DTANet/raw/b1c367e07993df97ecf034f6740b63e7ad31460d/position_embedding.png)
 
 The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1/folders/14DWPcBVMQ7CrNo13gEoDppv6Rn0Ze0c3) (please report if not available).
 
