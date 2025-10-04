@@ -216,7 +216,7 @@ class PatchEmbed(nn.Module):
         return x.transpose(0, 1)  # [785, B, 20]
 
 # ======= HybridRadarClassifier =======
-class HybridRadarClassifier(nn.Module):
+class DTANet(nn.Module):
     def __init__(self, num_classes=12, groups=1, img_size=224, patch_size=8):
         super().__init__()
         H_grid = img_size // patch_size
@@ -250,4 +250,4 @@ img_size = 224
 
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model = HybridRadarClassifier(num_classes=num_classes, groups=1, img_size=img_size, patch_size=8).to(device)
+model = DTANet(num_classes=num_classes, groups=1, img_size=img_size, patch_size=8).to(device)
