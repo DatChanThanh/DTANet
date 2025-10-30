@@ -26,7 +26,7 @@ solution for real-time deployment on resource-limited platforms.
 
 ![Position Embedding](https://github.com/DatChanThanh/DTANet/raw/b1c367e07993df97ecf034f6740b63e7ad31460d/position_embedding.png)
 
-How to cite
+How to cite:
 
 T.-D. Tran and T. Huynh-The, “DTANet: High-performance network with decoupled three-dimensional attention for radar-communications waveform classification,” IEEE Commun. Lett., pp. 1–1, Sep. 2025
 
