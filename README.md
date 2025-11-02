@@ -8,6 +8,12 @@ Experiments on a 12-class synthetic waveform dataset show DTANet achieves state-
 
 ![Position Embedding](https://github.com/DatChanThanh/DTANet/raw/b1c367e07993df97ecf034f6740b63e7ad31460d/position_embedding.png)
 
+
+The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1/folders/14DWPcBVMQ7CrNo13gEoDppv6Rn0Ze0c3) (please report if not available).
+
+ If there is any error or need to be discussed, please email to [Thanh-Dat Tran](https://github.com/DatChanThanh) via [trandatt21@gmail.com](mailto:trandatt21@gmail.com).
+
+
 How to cite:
 
 T.-D. Tran and T. Huynh-The, “DTANet: High-performance network with decoupled three-dimensional attention for radar-communications waveform classification,” IEEE Commun. Lett., pp. 1–1, Sep. 2025
@@ -20,8 +26,3 @@ T.-D. Tran and T. Huynh-The, “DTANet: High-performance network with decoupled 
   pages={1--1},
   month = {Sep.},
 }
-
-
-The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1/folders/14DWPcBVMQ7CrNo13gEoDppv6Rn0Ze0c3) (please report if not available).
-
- If there is any error or need to be discussed, please email to [Thanh-Dat Tran](https://github.com/DatChanThanh) via [trandatt21@gmail.com](mailto:trandatt21@gmail.com).
