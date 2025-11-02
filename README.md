@@ -16,8 +16,6 @@ The dataset can be download on [Google Drive](https://drive.google.com/drive/u/1
 
 How to cite:
 
-T.-D. Tran and T. Huynh-The, “DTANet: High-performance network with decoupled three-dimensional attention for radar-communications waveform classification,” IEEE Commun. Lett., pp. 1–1, Sep. 2025
-
 @ARTICLE{tran2025dtanet,
   author={Tran, Thanh-Dat and Huynh-The, Thien},
   journal={IEEE Commun. Lett.}, 
@@ -26,3 +24,5 @@ T.-D. Tran and T. Huynh-The, “DTANet: High-performance network with decoupled 
   pages={1--1},
   month = {Sep.},
 }
+
+T.-D. Tran and T. Huynh-The, “DTANet: High-performance network with decoupled three-dimensional attention for radar-communications waveform classification,” IEEE Commun. Lett., pp. 1–1, Sep. 2025
